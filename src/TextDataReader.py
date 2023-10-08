@@ -1,7 +1,5 @@
-import self as self
-
-from src.Types import DataType
 from src.DataReader import DataReader
+from src.Types import DataType
 
 
 class TextDataReader(DataReader):
